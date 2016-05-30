@@ -1,13 +1,18 @@
-# 62tae.github.io
-TED Home
+# front cover jekyll theme
 
--------
-** Ted's Homepage **
--------
+## Why choose this jekyll theme for your front page?
+* You don't have to modify any HTML, everything can be modified in config.yml.
+* Very lightweight. No Javascript, No Bootstrap etc..
+* MIT licensed.
 
-**해야할 일**
 
-- 메인 Theme 정해서 적용
-- 포스트 가능한지.
-- SpaceGraph와 연결
-- 디자인 변경
+## See it in action
+<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
+
+## Credits
+The background image that was used as an example comes from Tom Hall.
+You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
+It's licensed under Creative-Commons.
+
+This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
+
