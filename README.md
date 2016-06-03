@@ -7,3 +7,4 @@
 * MIT licensed.
 * tinyletter 연결
 * disqus 연결
+* Spacegraph 한글 / 영어 따로 만들기.
