@@ -5,4 +5,5 @@
 * favicon 만들기.
 * 블로그 페이지 만들기.(minimal mistake)
 * MIT licensed.
-
+* tinyletter 연결
+* disqus 연결
